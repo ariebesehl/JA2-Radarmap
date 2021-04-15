@@ -12,9 +12,9 @@ A composition of all the Arulco radarmaps from *Jagged Alliance 2*, into one lar
 
 ## Results
 
-1) Entire map, **without grid**, compressed .jpg, [10240x5120](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.jpg), [5120x2560](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-1.jpg), [2560x1280](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg), [1280x640](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-3.jpg)
+1) Entire map, **with grid**, compressed .jpg, [10560x5440](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.jpg), [5280x2720](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-1.jpg), [2640x1360](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-2.jpg), [1320x680](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-3.jpg)
 
-2) Entire map, **with grid**, compressed .jpg, [10560x5440](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.jpg), [5280x2720](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-1.jpg), [2640x1360](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-2.jpg), [1320x680](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-3.jpg)
+2) Entire map, **without grid**, compressed .jpg, [10240x5120](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.jpg), [5120x2560](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-1.jpg), [2560x1280](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg), [1280x640](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-3.jpg)
 
 3) Entire map, 7-zipped archive of uncompressed bitmap [with](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.bmp.7z) and [without](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.bmp.7z) grid
 
@@ -25,7 +25,7 @@ A composition of all the Arulco radarmaps from *Jagged Alliance 2*, into one lar
 
 ## Method
 
-1) Every passable sector was opened in the JA2 v1.13 Map Editor, a radarmap was displayed, and a screenshot was taken. Screenshots are saved in Targa Truevision format.
+1) Every passable sector was opened in the JA2 v1.13 Map Editor, a radarmap was displayed, and a screenshot was taken. Screenshots are saved in .tga format.
 
 2) Screenshots were then cropped to only the displayed radarmap, and saved in bitmap file format for easy handling.
 
@@ -36,7 +36,7 @@ A composition of all the Arulco radarmaps from *Jagged Alliance 2*, into one lar
 
 1) [IrfanView](https://www.irfanview.com/), for viewing and converting .tga files, batch cropping, conversion and renaming, and (resampled) resizing of output files
 
-2) [ZDK](https://github.com/ZaidaTek/ZDK), for loading and saving bitmaps into pixel arrays, and image, grid and font composition
+2) [ZDK](https://github.com/ZaidaTek/ZDK), my own library for loading bitmaps into pixel arrays (and vice versa), and image, grid and font composition, and other things
 
 3) [Code::Blocks](https://www.codeblocks.org/), for compiling (with GCC and MingW)
 
