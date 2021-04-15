@@ -12,7 +12,7 @@ A composition of all the Arulco radarmaps from *Jagged Alliance 2*, into one lar
 
 ## Results
 
-1) Entire map, **no grid**, compressed .jpg, [10240x5120](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.jpg), [5120x2560](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-1.jpg), [2560x1280](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg), [1280x640](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-3.jpg)
+1) Entire map, **without grid**, compressed .jpg, [10240x5120](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.jpg), [5120x2560](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-1.jpg), [2560x1280](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg), [1280x640](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-3.jpg)
 
 2) Entire map, **with grid**, compressed .jpg, [10560x5440](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.jpg), [5280x2720](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-1.jpg), [2640x1360](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-2.jpg), [1320x680](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-3.jpg)
 
@@ -51,7 +51,4 @@ About twenty years ago, when I first played JA2, I always imagined what it would
 ## License
 
 All copyrights belong to their respective owners. Radarmaps are screenshotted, and so should fall under a fair-use policy. Code I've written is unlicensed.
-
-
-![](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg)
 
