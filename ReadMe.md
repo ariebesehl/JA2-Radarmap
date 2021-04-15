@@ -6,21 +6,21 @@ A composition of all the Arulco radarmaps from *Jagged Alliance 2*, into one lar
 
 
 
-![](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-2.jpg)
+![](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-2.jpg)
 
 
 
 ## Results
 
-1) Entire map, **no grid**, compressed .jpg, scaled [100% (10240x5120 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-0.jpg), [50% (5120x2560 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-1.jpg), [25% (2560x1280 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-2.jpg), [12.5% (1280x640 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-3.jpg)
+1) Entire map, **no grid**, compressed .jpg, [10240x5120](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.jpg), [5120x2560](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-1.jpg), [2560x1280](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg), [1280x640](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-3.jpg)
 
-2) Entire map, **with grid**, compressed .jpg, scaled [100% (10560x5440 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-0.jpg), [50% (5280x2720 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-1.jpg), [25% (2640x1360 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-2.jpg), [12.5% (1320x680 px)](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-3.jpg)
+2) Entire map, **with grid**, compressed .jpg, [10560x5440](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.jpg), [5280x2720](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-1.jpg), [2640x1360](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-2.jpg), [1320x680](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-3.jpg)
 
-3) Entire map, 7-zipped archive of uncompressed bitmap [with](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/grid-0.bmp.7z) and [without](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-0.bmp.7z) grid
+3) Entire map, 7-zipped archive of uncompressed bitmap [with](https://github.com/ariebesehl/JA2-Radarmap/raw/main/grid-0.bmp.7z) and [without](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-0.bmp.7z) grid
 
-4) 7-zipped archive of uncompressed composition [source bitmaps](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/sources.7z)
+4) 7-zipped archive of uncompressed composition [source bitmaps](https://github.com/ariebesehl/JA2-Radarmap/raw/main/sources.7z)
 
-5) Composition tool [source code](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/main.c) and [Code::Blocks project file](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/main.cbp)
+5) Composition tool [source code](https://github.com/ariebesehl/JA2-Radarmap/raw/main/main.c) and [Code::Blocks project file](https://github.com/ariebesehl/JA2-Radarmap/raw/main/main.cbp)
 
 
 ## Method
@@ -53,5 +53,5 @@ About twenty years ago, when I first played JA2, I always imagined what it would
 All copyrights belong to their respective owners. Radarmaps are screenshotted, and so should fall under a fair-use policy. Code I've written is unlicensed.
 
 
-![](https://raw.githubusercontent.com/ariebesehl/JA2-Radarmap/main/full-2.jpg)
+![](https://github.com/ariebesehl/JA2-Radarmap/raw/main/full-2.jpg)
 
